@@ -1,0 +1,205 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.logos{
+    background-color: #F5F5F5;
+    padding: 0% 200px;
+    border-bottom: 2px solid lightgrey;
+
+}
+.navbar{
+    padding: 0% 150px;
+}
+main{
+    /* background-image: url(./PICS/main\ background\ lines.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh; */
+    display: block;
+    margin: 0px 0px 0px 160px;
+}
+.div1{
+    
+    display: inline-block;
+
+
+}
+.main_image{
+    background-color: #1847D7;
+
+}
+
+.main_image p{
+    color: #289ED7;
+    font-size: 1.2em;
+}
+.main_image .main_slogan{
+    color: white;
+    font-size: 2em;
+    margin: 10px;
+}
+.main_image .main_slogan_2{
+    font-size: 1.2em;
+    margin: 10px;
+    padding-bottom: 20px;
+
+}
+.pokemon_present{
+    background-color: lightgray;
+    color: gray;
+    display: inline-block;
+}
+.pokemon_present .slogan_2{
+    font-size:1.7em ;
+    color: black;
+    margin: 10px;
+
+}
+.pokemon_bee{
+    display: inline-block;
+    background-color: green;
+}
+
+.pokemon_bee .slogan_3_main{
+    font-size:1.7em ;
+    color: whitesmoke;
+    margin: 10px;
+
+}
+.pokemon_bee .slogan_3{
+    font-size: 1.2em;
+    margin: 10px;
+
+}
+
+
+/* ////section//// */
+.div2{
+    display: inline-block;
+}
+
+.image1_scarlet{
+    display: inline-block;
+    background-color: #DAA31C;
+}
+.image1_scarlet p{
+    font-size: 1.5em;
+    color: white;
+    padding: 15px 20px;
+}
+
+.image2_brilliant_star img{
+    display: inline-block;  
+    
+}
+.image2_brilliant_star{
+    background-color: #975FE2;
+
+}
+.image2_brilliant_star p{
+    display: inline-block;
+    font-size: 1.5em;
+
+    padding: 11px 20px;
+    padding-right: 0px  ;
+
+    color: white;
+}
+.image3_international_challenge{
+    background-color: #EE6B2F;
+}
+.image3_international_challenge p{
+    font-size: 1.5em;
+    color: white;
+    padding: 10px 0px 9px 20px;
+
+}
+
+
+
+
+.section_2{
+    margin-top: 20px;
+}
+.purple_orange{
+
+    display: inline-block;
+}
+
+
+.exciting_purple{
+    margin-top: 50px;
+    background-color: #B38AEA;
+}
+
+.exciting_purple .slogan_main{
+    color: white;
+    font-size: 1.5em;
+    padding: 20px;
+    padding-bottom: 0;
+}
+.exciting_purple .slogan_sub{
+    padding: 10px 20px ;
+
+}
+.orange_unite{
+    display: inline-block;
+    background-color: orange;
+}
+
+.orange_unite .slogan_main{
+    color: white;
+    font-size: 1.3em;
+    padding: 20px;
+    padding-bottom: 0;
+}
+.orange_unite .slogan_sub{
+    padding: 10px 20px ;
+}
+
+
+
+
+.black_blue{
+    display: inline-block;
+    /* margin-top: 20px; */
+}
+.black_march{
+
+    background-color: grey;
+}
+
+.black_march .slogan_main{
+    color: white;
+    font-size: 1.3em;
+    padding: 20px;
+    padding-bottom: 0;
+}
+.black_march .slogan_sub{
+    padding: 10px 20px ;
+    
+}
+.para2{
+    font-size: 1.5em;
+    color: lightgray;
+    padding: 20px 10px;
+    
+}
+
+.Blue_pokemon{
+
+    background-color: rgb(68, 149, 177);
+}
+
+.Blue_pokemon .slogan_main{
+    color: white;
+    font-size: 1.3em;
+    padding: 20px;
+    padding-bottom: 0;
+}
+.Blue_pokemon .slogan_sub{
+    padding: 10px 20px ;
+}
