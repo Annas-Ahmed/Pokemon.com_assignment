@@ -127,6 +127,7 @@ main{
 .purple_orange{
 
     display: inline-block;
+    margin-right: 30px;
 }
 
 
@@ -148,6 +149,7 @@ main{
 .orange_unite{
     display: inline-block;
     background-color: orange;
+    margin-top: 20px;
 }
 
 .orange_unite .slogan_main{
@@ -166,6 +168,8 @@ main{
 .black_blue{
     display: inline-block;
     /* margin-top: 20px; */
+    margin-right: 30px;
+
 }
 .black_march{
 
@@ -192,6 +196,8 @@ main{
 .Blue_pokemon{
 
     background-color: rgb(68, 149, 177);
+    margin-top: 20px;
+
 }
 
 .Blue_pokemon .slogan_main{
@@ -202,4 +208,85 @@ main{
 }
 .Blue_pokemon .slogan_sub{
     padding: 10px 20px ;
+}
+
+
+
+
+
+.blue_orange{
+    display: inline-block;
+}
+.blue_pokemon_unite{
+
+    background-color: royalblue;
+}
+
+.blue_pokemon_unite .slogan_main{
+    color: white;
+    font-size: 1.3em;
+    padding: 20px;
+    padding-bottom: 0;
+}
+.blue_pokemon_unite .slogan_sub{
+    padding: 10px 20px ;
+    color: lightblue;
+}
+
+
+.orange_pokemon_legend{
+
+    background-color: orangered;
+    margin-top: 20px;
+
+}
+
+.orange_pokemon_legend .slogan_main{
+    color: white;
+    font-size: 1.3em;
+    padding: 20px;
+    padding-bottom: 0;
+}
+.orange_pokemon_legend .slogan_sub{
+    padding: 10px 20px ;
+    color: lightgrey;
+}
+
+
+/* footer */
+
+footer{
+    margin-top: 50px;
+    background-color: #1F1F1F;
+}
+
+.Pokemon_company{
+    display: inline-block;
+    margin: 20px 150px;
+    margin-right: 20px;
+    padding-right: 20px;
+    border-right: 3px solid black;
+}
+.Pokemon_company h1{
+    color: white;
+    font-size: 1.75em;
+}
+
+.Pokemon_company a{
+    text-decoration: none;
+    color: grey;
+}
+.Pokemon_company ul li{
+    text-decoration: none;
+}
+
+.social_logos{
+    display: inline-block;
+    border-right: 3px solid black;
+    padding-right: 15PX;
+}
+
+.safe_harbor{
+    display: inline-block;
+    padding: 60px 20px 0 20px;
 }
